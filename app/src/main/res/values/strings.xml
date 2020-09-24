@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="retry">Retry</string>
+    <string name="display_name">User\'s Display Name</string>
+    <string name="rating">Rating</string>
+    <string name="source">Source</string>
+</resources>
